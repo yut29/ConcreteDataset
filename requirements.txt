@@ -3,3 +3,4 @@ joblib==1.2.0
 numpy==1.25.0
 scikit-learn==1.5.2
 cloudpickle==2.2.1
+setuptools>=40.0.0
